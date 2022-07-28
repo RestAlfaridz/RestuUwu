@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Gweh Restu Muhammad Al Faridzi</h1>
+<h1 align="center">Halo, Gweh Restu</h1>
 <h3 align="center">Gweh Animeh</h3>
 
 - 🔭 I’m currently working on **nothing**
